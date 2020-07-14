@@ -12,4 +12,6 @@ Orientação a objetos é uma maneira de programar que ajuda na organização e 
 
 * [Tratamento de exceções e Coleções](tratamento-collections) -  Tratamento de exceções Java Collections Framework
 
-* [Empacotamento em arquivos JAR e uso de bibliotecas](jar-bibliotecas)
+* [Empacotamento em arquivos JAR e uso de bibliotecas](jar-bibliotecas) - JAR, uso de Bibliotecas
+
+* [Teste de unidade e JavaDOC](testes-javadoc) - JavaDOC, Teste de unidade
