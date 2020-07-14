@@ -1,5 +1,9 @@
 # Modificadores de Acesso e Método Construtor
 
+## Classes e Objetos
+
+Um objeto, onde suas características são seus atributos (dados atrelados ao objeto) e seus comportamentos são ações ou métodos. Quando um objeto pode ser classificado, seu objeto pertence à uma classe.
+
 ## Encapsulamento
 
 Emissor da mensagem não precisa saber como o resultado foi obtido, para este só importa o resultado. O emissor tambêm precisa conhecer quais operações o receptor sabe realizar ou quais informações o receptor pode fornecer.
