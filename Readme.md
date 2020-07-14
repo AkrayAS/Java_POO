@@ -9,3 +9,7 @@ Orientação a objetos é uma maneira de programar que ajuda na organização e 
 * [Modificadores de Acesso e Classes](modificadores-acesso) - Encapsulamento, Modificadores de Acesso, Classes, métodos, atributos, construtores.
 
 * [Palavras Reservadas](palavras-reservadas) - this, final, static, Math, StringBuilder
+
+* [Tratamento de exceções e Coleções](tratamento-collections) -  Tratamento de exceções Java Collections Framework
+
+* [Empacotamento em arquivos JAR e uso de bibliotecas](jar-bibliotecas)
