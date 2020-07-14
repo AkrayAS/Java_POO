@@ -15,3 +15,6 @@ Orientação a objetos é uma maneira de programar que ajuda na organização e 
 * [Empacotamento em arquivos JAR e uso de bibliotecas](jar-bibliotecas) - JAR, uso de Bibliotecas
 
 * [Teste de unidade e JavaDOC](testes-javadoc) - JavaDOC, Teste de unidade
+
+* [Herança](heranca) - Herança
+
