@@ -18,4 +18,7 @@ Orientação a objetos é uma maneira de programar que ajuda na organização e 
 
 * [Herança](heranca) - Herança
 
-* [Classe abstrata, interfaces e polimorfismo](polimorfismo) - classe abstrata, interfaces e polimorfismo
+* [Classe abstrata, interfaces e polimorfismo](polimorfismo) - classe abstrata, interfaces, polimorfismo
+
+* [Enum e Tipos genéricos](enum) - enum, tipo genérico
+
